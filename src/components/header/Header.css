@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 70px;
+}
+
+.header__logo {
+  width: 160px;
+}
+
+.menu__bar {
+  width: 50px;
+  height: 8px;
+  background-color: #c36;
+  margin-bottom: 10px;
+}
